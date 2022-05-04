@@ -5,7 +5,7 @@
    
 
     <!-- Title Page-->
-    <title>Add Employee | Employee Management System</title>
+    <title>Add Employee | Office Management System</title>
 
     <!-- Icons font CSS-->
     <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
